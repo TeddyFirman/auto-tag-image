@@ -1,0 +1,9 @@
+nbconvert
+nbformat
+numpy
+scikit-learn
+opencv-python
+Pillow
+scipy
+pandas
+streamlit
